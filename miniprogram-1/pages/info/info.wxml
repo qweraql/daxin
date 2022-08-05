@@ -1,0 +1,4 @@
+<!--pages/info/info.wxml-->
+<button type="primary">按钮</button>
+<button type="primary" bindtap="btn">+1</button>
+<button type="primary" bindtap="btn1" data-info="{{2}}">+2</button>

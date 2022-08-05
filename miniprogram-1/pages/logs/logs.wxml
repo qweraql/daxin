@@ -1,0 +1,7 @@
+<!--pages/logs/logs.wxml-->
+<view>{{msg}}</view>
+<button type="primary">按钮</button>
+<button type="primary" bindtap="btn">+1按钮</button>
+<button type="primary" bindtap="btn1" data-info="{{2}}">+2按钮</button>
+<input bindinput="inp" type="text"></input>
+<input type="text" bindinput="inp1" value="{{msg}}"/>

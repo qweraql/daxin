@@ -1,0 +1,8 @@
+/* pages/logs/logs.wxss */
+input{
+  border: 1px solid #ccc;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 3px;
+  text-align: center;
+}
